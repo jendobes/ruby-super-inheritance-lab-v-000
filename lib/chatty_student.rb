@@ -12,5 +12,6 @@ class ChattyStudent < Student
    super
    10.times do raise_hand
    end
+ end
 
 end
